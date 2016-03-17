@@ -1,12 +1,8 @@
 # Salvager-of-Nanozin
 A Sci Fi puzzle game written in C# with XNA.
-
 By Benjamin Russell, 2014
 
-Final class project for Graphics and Game Engine programming of my Sophomore year.
-
-Champlain College
-
+Final class project for Graphics and Game Engine programming of my Sophomore year. Champlain College.
 Programming and Artwork by me, except the player character and plasma rifle, contributed by Ben Hiller.
 Sound files thanks to freesound.org
 
