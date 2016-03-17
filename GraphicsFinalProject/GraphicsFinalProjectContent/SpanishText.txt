@@ -1,0 +1,52 @@
+Salvador de Nanozin
+           Creditos
+          Opciones
+         Controles
+     Jugar
+  Pantalla
+    Nuevo
+Continuar
+ Creditos
+   Espalda
+    Menu
+ Opciones
+  Espanol
+Continuar
+ Reanudar
+    Salida
+ Controles
+             Pausa
+Movimiento                  WASD
+Dispara                          Espacio
+Recoger / Dejar Caer    E
+Mire                                Mayus + WASD
+Pausa                              Escape
+       Creador del juego, Disenador Jefe, etc:
+                          Benjamin Russell
+                      Salvador y Rifle Artista:
+                                Ben Hiller
+    Editor
+ (Espacio)
+                          Dia 13: He descubierto un buque de transporte, pero que carece de combustible.
+                                                       Necesito encontrar         Pilas de Combustible
+              Dia 15: Los diversos artilugios dejadas por los habitantes anteriores son peligrosos, pero util.
+                                        Emplean una forma primitiva de proyectiles basados en plasma.
+             Dia 21: Me ha asegurado refugio y alimento en el transporte, pero tengo que salir al exterior.
+                    Al menos me quede con este traje. La exposicion a la radiacion o frio seria mortal.
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                             Lo siento! Sin mas 
+                                                                                     narrativo
+                                                                           Este es el ultimo nivel!
+                                                                                   Felicidades.
+EOF

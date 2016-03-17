@@ -1,0 +1,52 @@
+Salvager of Nanozin
+            Credits
+           Options
+           Controls
+      Play
+ Fullscreen
+New Game
+ Continue
+   Credits
+     Back
+    Menu
+  Options
+   English
+ Continue
+   Restart
+      Exit
+  Controls
+            Paused
+Movement                  WASD
+Fire                              Space
+Pick Up / Drop           E
+Look                            Shift + WASD
+Pause                           Escape
+                              Game Creator:
+                            Benjamin Russell
+                      Salvager and Rifle Artist:
+                                  Ben Hiller
+    Editor
+   (Space)
+                                       Day 13:  I've discovered a transport vessel, but it's lacking fuel.
+                                                              I need to find             Fuel Cells
+               Day 15:  The various contraptions left by the previous inhabitants are dangerous, but useful.
+                                            They employ a primitive form of plasma-based projectiles.
+                 Day 21:  I've secured shelter and food within the transport, but I must venture outside.
+                   At least I was left with this suit. Exposure to the radiation or cold would be deadly.
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                                Sorry! No more 
+                                                                                     Narrative
+                                                                           This is the last level!
+                                                                                     Congrats.
+EOF

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsFinalProject", "GraphicsFinalProject\GraphicsFinalProject\GraphicsFinalProject.csproj", "{739A70A2-E38A-4A57-8151-8CA908A437EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsFinalProjectContent", "GraphicsFinalProject\GraphicsFinalProjectContent\GraphicsFinalProjectContent.contentproj", "{AAC9CAE2-6909-4EA3-9C40-89EFF8769493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739A70A2-E38A-4A57-8151-8CA908A437EB}.Debug|x86.ActiveCfg = Debug|x86
+		{739A70A2-E38A-4A57-8151-8CA908A437EB}.Debug|x86.Build.0 = Debug|x86
+		{739A70A2-E38A-4A57-8151-8CA908A437EB}.Release|x86.ActiveCfg = Release|x86
+		{739A70A2-E38A-4A57-8151-8CA908A437EB}.Release|x86.Build.0 = Release|x86
+		{AAC9CAE2-6909-4EA3-9C40-89EFF8769493}.Debug|x86.ActiveCfg = Debug|x86
+		{AAC9CAE2-6909-4EA3-9C40-89EFF8769493}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
